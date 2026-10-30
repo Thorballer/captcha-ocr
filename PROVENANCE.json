@@ -1,0 +1,28 @@
+{
+  "project": "captcha-ocr",
+  "packaging_note": "Original source downloaded from the authenticated Kaggle account; code not rewritten. Documentation added for portfolio organization. Downloaded Kaggle notebooks generally omit executed outputs. Last run timestamps are source metadata, not authorship or publication dates.",
+  "sources": [
+    {
+      "file": "notebooks/captcha.ipynb",
+      "source_url": "https://www.kaggle.com/code/thorballer/captcha",
+      "source_title": "Captcha",
+      "source_id": 73293929,
+      "last_run_time": "2024-12-20 22:06:16.407000",
+      "original_sha256": "8ff1642676a01d99d7dac01f43b7ed1138a83080ce4aa765785045beb15bf8cc",
+      "published_sha256": "8ff1642676a01d99d7dac01f43b7ed1138a83080ce4aa765785045beb15bf8cc",
+      "redactions": [],
+      "executed_outputs_present": false
+    },
+    {
+      "file": "notebooks/notebook416e63eea2.ipynb",
+      "source_url": "https://www.kaggle.com/code/thorballer/notebook416e63eea2",
+      "source_title": "notebook416e63eea2",
+      "source_id": 73353464,
+      "last_run_time": "2024-12-24 21:41:58.947000",
+      "original_sha256": "6f008a3c9816016fd852ef98b4e002e163e07696a3f293d89d7574e23ce335fe",
+      "published_sha256": "6f008a3c9816016fd852ef98b4e002e163e07696a3f293d89d7574e23ce335fe",
+      "redactions": [],
+      "executed_outputs_present": true
+    }
+  ]
+}
